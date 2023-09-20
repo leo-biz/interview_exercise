@@ -2,8 +2,7 @@
 
 This exercise required creating an API and creating a cli wrapper to interact with the api. 
 
-All API functionality is placed behind route /api/
-http://127.0.0.1:8000/
+All API functionality is placed behind route '/api/': http://127.0.0.1:8000/api/)
 
 ### Django API Setup
 ```
